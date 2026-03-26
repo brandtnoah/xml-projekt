@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Entscheidung in St. Vith</title>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1193841716">
+          <forename>Wolfgang</forename>
+          <surname>Tress</surname>
+        </persName>
+      </author>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1195483744">
+          <forename>Charles</forename>
+          <surname>Whiting</surname>
+        </persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition n="1">1. Auflage</edition>
+    </editionStmt>
+
+    <extent>
+      <measure type="page">Seite 175</measure>
+    </extent>
+
+    <publicationStmt>
+      <publisher>
+        <orgName>Edition Doepgen Verlag</orgName>
+      </publisher>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4015487-8">Eupen</placeName>
+      </pubPlace>
+      <date when="1979-09">September 1979</date>
+      <idno type="ISBN">3-88408-002-4</idno>
+      <printer>
+        <persName ref="https://d-nb.info/gnd/1195486003">Heinz Doepgen</persName>
+      </printer>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4107787-4">St. Vith</placeName>
+      </pubPlace>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4005402-0">Belgien</placeName>
+      </pubPlace>
+    </publicationStmt>
+
+    <sourceDesc>
+      <bibl type="M">
+        <title>Entscheidung in St. Vith</title>
+        <author>Wolfgang Tress; Charles Whiting</author>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+    <editorialDecl>
+      <p>Originaltext mit Zeilenumbrüchen wiedergegeben.</p>
+    </editorialDecl>
+  </encodingDesc>
+
+  <profileDesc>
+    <textClass/>
+  </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<p>
+<lb/>nie überrannt werden würde. Denn nur im
+<lb/>Schutze der Dunkelheit könnte die 7. Panzer-
+<lb/>division noch durch den knapp drei Kilome-
+<lb/>ter breiten Flaschenhals am westlichen Ende
+<lb/>des befestigten Gänseeies über die zwei letzten
+<lb/>Brücken über die 
+<placeName ref="https://d-nb.info/gnd/4116830-2">Salm</placeName>
+ entkommen: in 
+<placeName ref="https://d-nb.info/gnd/4107786-2">Vielsalm</placeName>
+ und in 
+<placeName ref="https://d-nb.info/gnd/1195486607">Salmchâteau</placeName>.
+<lb/>Morgen früh schon wird eine solche Operation
+<lb/>undurchführbar sein!
+<lb/>Um <date when="16:30">halb fünf nachmittags</date>
+ trifft 
+<persName ref="https://d-nb.info/gnd/118749803">Matthew Bunker Ridgway</persName>
+ end-
+<lb/>lich ein. Nicht gerade sehr freundlich schaut er
+<lb/>in die Gesichter seiner versammelten Komman-
+<lb/>deure. Aggressiv wendet er sich an Oberst 
+<persName ref="https://d-nb.info/gnd/1195486763">Reid</persName>
+<lb/>vom 424. Regiment der 106. Infanteriedivi-
+<lb/>sion. »Was ist die Kampfstärke Ihrer Einheit,
+<lb/>Oberst?
+<lb/>»Etwa 50 Prozent, Sir«, antwortet Reid.
+<lb/>Ridgway atmet hörbar mißbilligend auf. Dann
+<lb/>wendet er sich an 
+<persName ref="https://d-nb.info/gnd/1195486232">Clarke</persName>,
+ der ihn körperlich
+<lb/>überragt. Wie Reid und der Rest der Offiziere,
+<lb/>die hier versammelt sind, ist auch Clarke eine
+<lb/>unbekannte Größe für ihn. Denn in den letzten
+<lb/>9 Jahren hat er es hauptsächlich mit Fall-
+<lb/>schirmjägeroffizieren zu tun gehabt, die eine
+<lb/>besondere Elitegruppe sind.
+<lb/>»Und Ihre Stärke, Clarke?« fragt er.
+<lb/>Clarke redet frei von der Leber weg. Er ist
+<lb/>weder schüchtern noch ängstlich: »40 Prozent,
+<lb/>Sir«, antwortet er ohne zu zögern. Ridgway
+<lb/>runzelt die Stirn. Nach dem, was er in den
+<lb/>letzten beiden Tagen hier in den 
+<placeName ref="https://d-nb.info/gnd/4003187-7">Ardennen</placeName>
+ er-
+<lb/>lebt hat, ist er langsam dazu gekommen, je-
+<lb/>dermanns Motive und Mut in Zweifel zu zie-
+<lb/>hen.
+<lb/>Hat er nicht gestern erst einen Leutnant wegen
+<lb/>Feigheit vor dem Feind festsetzen lassen und
+<lb/>kurz danach sogar damit drohen müssen, einen
+<lb/>Feldwebel aus demselben Grunde zu erschie-
+<lb/>ßen?
+<lb/>
+<note type="editorial">Hinweis auf strenge Disziplinarmaßnahmen innerhalb der US-Armee im Zweiten Weltkrieg.</note>
+<lb/>
+Sind diese Offiziere, die alle den Ein-
+<lb/>druck machen, als wollten sie das Handtuch in
+<lb/>den Ring werfen, nichts anderes als ein paar
+<lb/>Waschlappen? Oder erzählen sie ihm die nack-
+<lb/>te Wahrheit?
+<lb/>Er muß jemanden finden, den er kennt, dem
+<lb/>er voll und ganz vertrauen kann. Dessen Urteil
+<lb/>über die Lage im befestigten »Gänseei«
+<lb/>braucht er!
+<lb/>Am besten, so beschließt er, wende ich mich
+<lb/>an General 
+<persName ref="https://d-nb.info/gnd/1195486895">William M. Hoge</persName>
+ von der 9. Panzerdivision.
+<lb/>Bill Hoge kennt er seit ihren gemeinsamen
+<lb/>Tagen in 
+<placeName ref="https://d-nb.info/gnd/4109156-4">West Point</placeName>.
+<lb/>
+<note type="editorial">West Point ist die Militärakademie der Vereinigten Staaten.</note>
+<lb/>
+Er weiß, was für ein
+<lb/>ruhiger, mutiger und unerschütterlicher Kerl
+<lb/>er ist. Er weiß ebenfalls, daß es nichts gibt,
+<lb/>was Hoge beunruhigt. Alles, was er jetzt
+<lb/>von ihm wissen will, ist seine Beurteilung der
+<lb/>Lage.
+<lb/>Er fragt die übrigen Offiziere, wo Hoge steckt.
+<lb/>Warum ist er nicht bei der Besprechung dabei?
+<lb/>Einer aus Clarkes Stab sagt Ridgway, daß
+<lb/>Hoge sich noch auf dem Weg nach 
+<placeName ref="https://d-nb.info/gnd/1195486402">Commanster</placeName>
+ befindet.
+<lb/>Ridgway nickt nur und befiehlt, man solle
+<lb/>eine Funkverbindung mit Hoge herstellen. Als
+<lb/>sie da ist, gibt Ridgway ihm verschlüsselte
+<lb/>Nachrichten, die sich auf die Tage in 
+<placeName ref="https://d-nb.info/gnd/4109156-4">West Point</placeName>
+ beziehen,
+<lb/>als er und Hoge im selben Footballteam waren.
+<lb/>Sie vereinbaren einen Punkt auf der Karte, an
+</p>
+</body>
+</text>
+</TEI>
