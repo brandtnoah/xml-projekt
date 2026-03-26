@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Entscheidung in St. Vith</title>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1193841716">
+          <forename>Wolfgang</forename>
+          <surname>Tress</surname>
+        </persName>
+      </author>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1195483744">
+          <forename>Charles</forename>
+          <surname>Whiting</surname>
+        </persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition n="1">1. Auflage</edition>
+    </editionStmt>
+
+    <extent>
+      <measure type="page">Seite 174</measure>
+    </extent>
+
+    <publicationStmt>
+      <publisher>
+        <orgName>Edition Doepgen Verlag</orgName>
+      </publisher>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4015487-8">Eupen</placeName>
+      </pubPlace>
+      <date when="1979-09">September 1979</date>
+      <idno type="ISBN">3-88408-002-4</idno>
+      <printer>
+        <persName ref="https://d-nb.info/gnd/1195486003">Heinz Doepgen</persName>
+      </printer>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4107787-4">St. Vith</placeName>
+      </pubPlace>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4005402-0">Belgien</placeName>
+      </pubPlace>
+    </publicationStmt>
+
+    <sourceDesc>
+      <bibl type="M">
+        <title>Entscheidung in St. Vith</title>
+        <author>Wolfgang Tress; Charles Whiting</author>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+    <editorialDecl>
+      <p>Originaltext mit Zeilenumbrüchen wiedergegeben.</p>
+    </editorialDecl>
+  </encodingDesc>
+
+  <profileDesc>
+    <textClass/>
+  </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<p>
+<lb/>Außerdem haben meine Einheiten jetzt mehr
+<lb/>als fünf Tage ununterbrochen gekämpft, und
+<lb/>das bei schwerem Wetter. Die Leute sind
+<lb/>nur noch zu 50 Prozent einsatzfähig. Und ich
+<lb/>bin sicher, dies gilt auch für die Infanterie«.
+<lb/>Hasbroucks Antwort hört 
+<persName ref="https://d-nb.info/gnd/118749803">Matthew Bunker Ridgway</persName>
+ mißmutig
+<lb/>an. Er, als Fallschirmjäger, ist es nämlich
+<lb/>gewohnt, abgeschnitten zu sein. Bei all seinen
+<lb/>Operationen während dieses Krieges ist er für
+<lb/>kürzere oder längere Zeit abgeschnitten gewe-
+<lb/>sen! Aber eine solche Situation ist nicht so
+<lb/>dramatisch, wie das aussieht, solange die Al-
+<lb/>liierten nur die Luftüberlegenheit besitzen.
+<lb/>
+<note type="editorial">Hinweis auf die alliierte Luftüberlegenheit im Zweiten Weltkrieg.</note>
+<lb/>
+Und die haben sie! Mit kaum verhohlener
+<lb/>Verachtung schaut er auf Hasbrouck. Dem
+<lb/>fehlt es offenbar an Aggressivität und Rück-
+<lb/>grat!
+<lb/>Dann plötzlich beginnt 
+<persName ref="https://d-nb.info/gnd/1195485003">Jones</persName>
+ zu sprechen. Der
+<lb/>Infanteriegeneral sagt: »Ich denke, wir können
+<lb/>es schaffen!“
+<lb/>Hasbrouck ärgert sich sehr über diese Ant-
+<lb/>wort. Denn der Infanteriegeneral versteht doch
+<lb/>gar nicht die speziellen Probleme eines Pan-
+<lb/>zersoldaten! Das befestigte »Gänseei« ist ein-
+<lb/>fach kein Panzergelände. Es gibt zu viele Wäl-
+<lb/>der und zu wenig Straßen. In diesem Gelän-
+<lb/>de ist ein Panzer sehr leicht abzuschießen.
+<lb/>»Panzer können sich doch nicht bewegen«,
+<lb/>protestiert er. »Wir können sie hier höchstens
+<lb/>als Bunker benutzen«.
+<lb/>
+<note type="editorial">Kritik an der eingeschränkten Beweglichkeit von Panzern im bewaldeten Gelände.</note>
+<lb/>
+Ridgway unterbricht die Diskussion an dieser
+<lb/>Stelle. Er setzt sich wieder seinen Helm auf,
+<lb/>schultert den Karabiner und stößt hervor:
+<lb/>»Also los, Bob, wir beide werden an die Front
+<lb/>gehen und dort nachsehen, was wirklich los
+<lb/>ist!« Der verärgerte Bob Hasbrouck folgt
+<lb/>ihm. Zurück lassen sie einen verwirrten Jo-
+<lb/>nes, der nur auf die Karte starrt...
+<lb/>
+<lb/>*
+<lb/>Es ist jetzt <date when="15:30">15.30 Uhr</date> an diesem Nachmittag.
+<lb/>
+<persName ref="https://d-nb.info/gnd/1195486232">Clarke</persName>
+ ist draußen, unweit seines neuen Be-
+<lb/>fehlsstandes in 
+<placeName ref="https://d-nb.info/gnd/1195486402">Commanster</placeName>.
+ Er prüft den
+<lb/>schneebedeckten Boden um zu erfahren, ob er
+<lb/>das Gewicht von Panzern oder Halbketten-
+<lb/>fahrzeugen trägt. Aber nach einer Weile meint
+<lb/>er, daß es nicht geht.
+<lb/>Gerade in diesem Augenblick sieht er den alten
+<lb/>Mercedes, den Hasbrouck ihm geliehen hatte
+<lb/><note type="editorial">Gemeint ist ein Militärfahrzeug der Marke Mercedes-Benz.</note>,
+ in Richtung 
+<placeName ref="https://d-nb.info/gnd/4066717-4">Sankt Vith</placeName>
+ vor-
+<lb/>beifahren. Er wendet sich an seinen Fahrer:
+<lb/>»Dort ist ein nagelneuer Stern an diesem Wa-
+<lb/>gen. Holen Sie den bitte!« Er meint damit
+<lb/>seinen eigenen Stern, den einen, den ein Bri-
+<lb/>gadegeneral trägt. Clarke möchte nicht, daß
+<lb/>sein erster Generalsstern in die Hände eines
+<lb/>deutschen Souvenirjägers fällt!
+<lb/>Während er mit dem Stern in der Hosentasche
+<lb/>in seinen Gefechtsstand zurückkehrt, erfährt er,
+<lb/>daß Ridgway unterwegs ist, um mit seinen Kom-
+<lb/>mandeuren eine Besprechung abzuhalten.
+<lb/>Ungeduldig erwartet Clarke die Ankunft der
+<lb/>Generale Ridgway und Hasbrouck. Denn er
+<lb/>weiß, daß ihm nur noch wenig Zeit bleibt
+<lb/>und die Entscheidung vor Einbruch der Dun-
+<lb/>kelheit getroffen werden muß, weil sonst seine
+<lb/>von den amerikanischen Panzern gehaltene Li-
+</p>
+</body>
+</text>
+</TEI>
