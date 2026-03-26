@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Entscheidung in St. Vith</title>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1193841716">
+          <forename>Wolfgang</forename>
+          <surname>Tress</surname>
+        </persName>
+      </author>
+      <author>
+        <persName ref="https://d-nb.info/gnd/1195483744">
+          <forename>Charles</forename>
+          <surname>Whiting</surname>
+        </persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition n="1">1. Auflage</edition>
+    </editionStmt>
+
+    <extent>
+      <measure type="page">Seite 173</measure>
+    </extent>
+
+    <publicationStmt>
+      <publisher>
+        <orgName>Edition Doepgen Verlag</orgName>
+      </publisher>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4015487-8">Eupen</placeName>
+      </pubPlace>
+      <date when="1979-09">September 1979</date>
+      <idno type="ISBN">3-88408-002-4</idno>
+      <printer>
+        <persName ref="https://d-nb.info/gnd/1195486003">Heinz Doepgen</persName>
+      </printer>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4107787-4">St. Vith</placeName>
+      </pubPlace>
+      <pubPlace>
+        <placeName ref="https://d-nb.info/gnd/4005402-0">Belgien</placeName>
+      </pubPlace>
+    </publicationStmt>
+
+    <sourceDesc>
+      <bibl type="M">
+        <title>Entscheidung in St. Vith</title>
+        <author>Wolfgang Tress; Charles Whiting</author>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+    <editorialDecl>
+      <p>Originaltext mit Zeilenumbrüchen wiedergegeben.</p>
+    </editorialDecl>
+  </encodingDesc>
+
+  <profileDesc>
+    <textClass/>
+  </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<p>
+<lb/>wenn sie nicht bald aus dem »Gänseei« eva-
+<lb/>kuiert werden. Aber die Generäle streiten sich
+<lb/>zur gleichen Zeit und scheinen unfähig, eine
+<lb/>Entscheidung zu treffen. Die Situation scheint
+<lb/>sich genauso zu entwickeln wie während der
+<lb/>beiden ersten Tage des überraschenden deut-
+<lb/>schen Gegenangriffes, als General 
+<persName ref="https://d-nb.info/gnd/1195485003">Jones</persName>
+ sich
+<lb/>in <placeName ref="https://d-nb.info/gnd/4066717-4">Sankt Vith</placeName>
+ nicht von der Stelle gerührt
+<lb/>und nichts unternommen hat, während die
+<lb/>Falle für seine beiden Regimenter in der
+<lb/><placeName ref="https://d-nb.info/gnd/4076732-1">Schneeifel</placeName> zuschnappt...
+<lb/>
+<lb/>*
+<lb/>Jetzt ist das Ende im "Gänseei" bald nahe.
+<lb/>Denn Major 
+<persName ref="https://d-nb.info/gnd/1195485127">Boyer</persName>s letztes Hundert Soldaten,
+<lb/>das den Rückzugsweg der 7. Panzerdivision
+<lb/>verteidigt hat, ist gerade überrannt und gefan-
+<lb/>gengenommen worden — einschließlich des
+<lb/>tapferen Majors!
+<lb/>Hasbroucks Nachricht erreicht 
+<persName ref="https://d-nb.info/gnd/118749803">Matthew Bunker Ridgway</persName>
+<lb/>ein paar Minuten vor Mittag — eine halbe Stun-
+<lb/>de nur nach einer Telefonnachricht von 
+<persName ref="https://d-nb.info/gnd/1195485003">Jones</persName>,
+<lb/>dem neuen Kommandeur aller Einheiten,
+<lb/>in der er sich mit 
+<persName ref="https://d-nb.info/gnd/11858479X">Bernard Montgomery</persName>
+ und Has-
+<lb/>brouck einverstanden erklärt: das Gänseei soll
+<lb/>geräumt werden! Aber während Ridgway ge-
+<lb/>rade Hasbroucks Nachricht studiert, die alles
+<lb/>klar und deutlich darlegt, bringt eine Ordon-
+<lb/>nanz ihm eine weitere Botschaft. Sie kommt
+<lb/>wieder von General Jones, aber diesmal hat
+<lb/>er seine ursprüngliche Meinung völlig verän-
+<lb/>dert. Denn in dieser Mitteilung stellt Jones
+<lb/>fest: »Es ist meine Absicht, das Gebiet zu hal-
+<lb/>ten, das wir jetzt haben!«
+<lb/>Das ist zuviel für Ridgway!
+<lb/>
+<note type="editorial">„Gänseei“ bezeichnet hier einen militärischen Einschließungskessel.</note>
+<lb/>
+Der hagere Fall-
+<lb/>schirmjäger mit der Hakennase, der immer
+<lb/>zwei Handgranaten an seinem Gürtel mit-
+<lb/>führt und statt der Generalpistole einen Ka-
+<lb/>rabiner der Infanteristen trägt, hat genug von
+<lb/>all dem Hin und Her. Die Situation in 
+<placeName ref="https://d-nb.info/gnd/4107786-2">Vielsalm</placeName>
+ ist offenbar hoffnungslos durcheinander
+<lb/>geraten. Es scheint ihm, als ob seine nach-
+<lb/>geordneten Kommandeure es an Mut fehlen
+<lb/>lassen. Er befiehlt knapp seinen Jeep herbei
+<lb/>und begibt sich selbst nach Vielsalm.
+<lb/>»Indem ich ihre Stimmen hörte und ihre Ge-
+<lb/>sichter sah«, so schreibt er später, »und zwar
+<lb/>dort mitten auf dem Schlachtfeld, wollte ich
+<lb/>ermitteln, was denn nun wirklich ihre Meinung
+<lb/>über die Lage sei.«
+<lb/>Gegen 13.30 Uhr kommt er in Vielsalm an.
+<lb/>Ridgway beginnt damit, sich »ihre Stimmen
+<lb/>anzuhören und in ihre Gesichter zu schauen«.
+<lb/>Er verliert keine Zeit mit höflichen Einleitun-
+<lb/>gen. Was er hört, gefällt ihm ganz und gar
+<lb/>nicht. Er geht an die große Karte an der
+<lb/>Wand, zieht mit dem Stift ein riesiges Gänseei
+<lb/>über die Region zwischen 
+<placeName ref="https://d-nb.info/gnd/4066717-4">St. Vith</placeName>
+ und 
+<placeName ref="https://d-nb.info/gnd/4107786-2">Vielsalm</placeName>
+ und sagt zu den beiden:
+<lb/>»Was halten Sie davon, wenn wir hier mitten-
+<lb/>drin standhalten? Sie könnten sich hier fest-
+<lb/>krallen, bis wir sie mit einer Gegenoffensive
+<lb/>rausholen. Sie wären natürlich bald umzingelt,
+<lb/>aber wir würden Sie durch die Luft mit Nach-
+<lb/>schub versorgen.«
+<lb/>Hasbrouck antwortet als erster. »Es gefällt mir
+<lb/>nicht«, sagt er. »Die Gegend ist ziemlich stark
+<lb/>bewaldet und es gibt nur ein paar Straßen.
+</p>
+</body>
+</text>
+</TEI>
