@@ -156,13 +156,15 @@ Er weiß, was für ein
 <lb/>Er fragt die übrigen Offiziere, wo Hoge steckt.
 <lb/>Warum ist er nicht bei der Besprechung dabei?
 <lb/>Einer aus
-<persName ref="https://d-nb.info/gnd/1130489213">Clarke</persName>s Stab sagt Ridgway, daß
+<persName ref="https://d-nb.info/gnd/1130489213">Clarke</persName>s Stab sagt <persName ref="https://d-nb.info/gnd/119175991">Ridgway</persName>, daß
 <lb/>Hoge sich noch auf dem Weg nach 
 <placeName ref="https://d-nb.info/gnd/1195486402">Commanster</placeName>
  befindet.
-<lb/>Ridgway nickt nur und befiehlt, man solle
+<lb/>
+<persName ref="https://d-nb.info/gnd/119175991">Ridgway</persName> nickt nur und befiehlt, man solle
 <lb/>eine Funkverbindung mit Hoge herstellen. Als
-<lb/>sie da ist, gibt Ridgway ihm verschlüsselte
+<lb/>sie da ist, gibt 
+<persName ref="https://d-nb.info/gnd/119175991">Ridgway</persName> ihm verschlüsselte
 <lb/>Nachrichten, die sich auf die Tage in 
 <placeName ref="https://d-nb.info/gnd/4109156-4">West Point</placeName>
  beziehen,
