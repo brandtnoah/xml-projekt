@@ -36,13 +36,13 @@
       <date when="1979-09">September 1979</date>
       <idno type="ISBN">3-88408-002-4</idno>
       <printer>
-        <persName ref="https://d-nb.info/gnd/1195486003">Heinz Doepgen</persName>
+        <persName ref="https://d-nb.info/gnd/1379182700">Heinz Doepgen</persName>
       </printer>
       <pubPlace>
-        <placeName ref="https://d-nb.info/gnd/4107787-4">St. Vith</placeName>
+        <placeName ref="https://d-nb.info/gnd/4105332-1">St. Vith</placeName>
       </pubPlace>
       <pubPlace>
-        <placeName ref="https://d-nb.info/gnd/4005402-0">Belgien</placeName>
+        <placeName ref="https://d-nb.info/gnd/4005406-8">Belgien</placeName>
       </pubPlace>
     </publicationStmt>
 
